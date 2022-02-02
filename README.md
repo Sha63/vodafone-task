@@ -1,4 +1,4 @@
 # vodafone-task
 ### Items:
-. aa
-. asd
+* aa
+* asd
