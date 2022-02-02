@@ -6,8 +6,8 @@
 ### How to run:
 * Open cmd
 * Navigate to the task_final directory
-* Enter the commands:
-```docker build -t task .```
-```docker run -p 8080:8080 task```
+* Enter the commands:   
+```docker build -t task .```   
+```docker run -p 8080:8080 task```   
 * Open Browser
 * got to http://localhost:8080/
